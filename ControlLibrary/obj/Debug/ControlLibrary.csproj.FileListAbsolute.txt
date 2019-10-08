@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\ControlLibrary\obj\Debug\ControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\ControlLibrary\obj\Debug\ControlLibrary.ControlComboBox.resources
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\ControlLibrary\obj\Debug\ControlLibrary.ControlListBox.resources
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\ControlLibrary\obj\Debug\ControlLibrary.ControlTextBox.resources
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\ControlLibrary\obj\Debug\ControlLibrary.ControlTreeView.resources
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\ControlLibrary\obj\Debug\ControlLibrary.Deserialization.resources
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\ControlLibrary\obj\Debug\ControlLibrary.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\ControlLibrary\obj\Debug\ControlLibrary.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\ControlLibrary\obj\Debug\ControlLibrary.ControlDataGridView.resources

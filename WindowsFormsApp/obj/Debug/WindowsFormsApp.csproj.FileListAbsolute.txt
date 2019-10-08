@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormTest.resources
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Kotov_PIbd-31_COP-master\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
